@@ -1,0 +1,7 @@
+name = "ludo-api"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "LUDO_KV"
+id = "YAHAN_KV_ID_PASTE_KARO"
